@@ -45,4 +45,4 @@ console.log(isChecked || !isClose); //если даже один из агрум
 console.log(2 + 2 * 2 !== '6'); //"!=" знак неравенство
 
 // 10 //
-
+console.log(blah);
